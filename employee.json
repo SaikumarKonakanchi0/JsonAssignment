@@ -1,0 +1,37 @@
+{
+          "employee 1": {
+                    "Name": "Saikuamar Konakanchi",
+                    "DOB": "21/09/2002",
+                    "Height": "6ft",
+                    "City": "Hyderabad",
+                    "State": "Telanagana"
+          },
+          "employee 2": {
+                    "Name": "Praneeth",
+                    "DOB": "21/09/2002",
+                    "Height": "6ft",
+                    "City": "DilsukhNagar",
+                    "State": "Telanagana"
+          },
+          "employee 3": {
+                    "Name": "Vyshnav",
+                    "DOB": "21/09/2002",
+                    "Height": "6ft",
+                    "City": "Khammam",
+                    "State": "Telanagana"
+          },
+          "employee 4": {
+                    "Name": "Kripal",
+                    "DOB": "21/09/2002",
+                    "Height": "6ft",
+                    "City": "Secunderabad",
+                    "State": "Telanagana"
+          },
+          "employee 5": {
+                    "Name": "Hithesh-Programmer",
+                    "DOB": "21/09/2002",
+                    "Height": "6ft",
+                    "City": "LB_Nagar",
+                    "State": "Telanagana"
+          }
+}
